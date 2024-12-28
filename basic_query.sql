@@ -1,5 +1,5 @@
 
-/*CREATE TABLE std (
+CREATE TABLE std (
     StudentID INT AUTO_INCREMENT PRIMARY KEY,
     FirstName VARCHAR(50),
     LastName VARCHAR(50),
